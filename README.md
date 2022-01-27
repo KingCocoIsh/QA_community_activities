@@ -1,0 +1,1 @@
+# QA_community_activities
